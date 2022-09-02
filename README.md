@@ -1,2 +1,1 @@
-# Uhimo
-## Build apps for fun.
+# Build apps for fun.
